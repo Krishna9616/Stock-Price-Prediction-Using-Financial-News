@@ -18,3 +18,9 @@ We scrape news headlines from the archives of the Economic Times website spannin
 Using the fine-tuned BERT model, we infer sentiment scores for the scraped news headlines. The sentiment scores indicate the polarity of sentiment expressed in each headline, which will be used as features for our stock price prediction model.
 Stock Price Prediction Model
 We design a machine learning model that takes the sentiment analysis output, along with other financial indicators, as input features to predict whether the stock price will increase or decrease. We experiment with various machine learning algorithms and evaluate their performance to identify the most accurate model for stock price prediction.
+
+## Team member
+
+Krishna Kumar
+Parth Sanil
+Aniket Srivashtva
