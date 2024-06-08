@@ -21,6 +21,6 @@ We design a machine learning model that takes the sentiment analysis output, alo
 
 ## Team member
 
-Krishna Kumar
-Parth Sanil
+Krishna Kumar, 
+Parth Sanil, 
 Aniket Srivashtva
